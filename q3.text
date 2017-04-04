@@ -1,0 +1,16 @@
+q3:- in javascript
+part of odd number
+var b=[5, 10, 23, 10, 7, 9, 39, 16, 1, 12, 36, 20, 50];
+for(i=0;i<b.length;i++){
+ if (b[i]%2 !==0 )
+console.log(b[i]*2);
+}
+the port of even number
+var b=[5, 10, 23, 10, 7, 9, 39, 16, 1, 12, 36, 20, 50];
+for(i=0;i<b.length;i++){
+ if (b[i]%2 !==1 )
+console.log(b[i]-1);
+}
+
+
+ 
